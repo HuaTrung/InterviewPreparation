@@ -9,7 +9,7 @@
 - [x] [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) :point_right: [code](./code/combination2.py)
 - [x] [Combination Sum I](https://leetcode.com/problems/combination-sum/) :point_right: [code](./code/combination.py)
 ## 2. Pattern: Sliding Window
-- [ ] Maximum Sum Subarray of Size K (easy)
+- [ ] Maximum Sum Subarray (https://leetcode.com/problems/maximum-subarray/)
 - [ ] Smallest Subarray with a given sum (easy)
 - [ ] Longest Substring with K Distinct Characters (medium)
 - [ ] Fruits into Baskets (medium)

@@ -12,33 +12,33 @@
 - [x] [Maximum Sum Subarray of Size K](https://leetcode.com/problems/max[imum-subarray/) :point_right: [code](./code/]sliding_window/maxSubArray.py) (easy)
 - [x] [Smallest Subarray with a given sum](https://leetcode.com/problems/minimum-size-subarray-sum/) :point_right: [code](./code/sliding_window/minSubArrayLen.py) (easy)
 - [x] [Longest Substring with K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/) :point_right: [code](./code/sliding_window/minSubArrayLen.py) (medium)
-- [x] [Fruits into Baskets](https://leetcode.com/problems/fruit-into-baskets/) (:point_right: [code](./code/sliding_window/totalFruits.py) (medium)
-- [x] [No-repeat Substring](https://leetcode.com/problems/fruit-into-baskets/) (:point_right: [code](./code/sliding_window/lengthOfLongestSubstring.py)  (hard) *
-- [x] [Longest Substring with Same Letters after Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) (:point_right: [code](./code/sliding_window/characterReplacement.py)  (medium)
-- [x] [Longest Subarray with Ones after Replacement](https://leetcode.com/problems/max-consecutive-ones-iii/) (:point_right: [code](./code/sliding_window/longestOnes.py)  (hard) *
-- [x] [Problem Challenge 1 - Permutation in a String](https://leetcode.com/problems/permutation-in-string/) (:point_right: [code](./code/sliding_window/checkInclusion.py)  (hard) *
-- [x] [Problem Challenge 2 - String Anagrams](https://leetcode.com/problems/find-all-anagrams-in-a-string/) (:point_right: [code](./code/sliding_window/findAnagrams.py)  (hard)
-- [x] [Problem Challenge 3 - Smallest Window containing Substring](https://leetcode.com/problems/minimum-window-substring/) (:point_right: [code](./code/sliding_window/minWindow.py)  (hard) *
-- [x] [Problem Challenge 4 - Words Concatenation](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) (:point_right: [code](./code/sliding_window/totalFruits.py)  (hard)
+- [x] [Fruits into Baskets](https://leetcode.com/problems/fruit-into-baskets/) :point_right: [code](./code/sliding_window/totalFruits.py) (medium)
+- [x] [No-repeat Substring](https://leetcode.com/problems/fruit-into-baskets/) :point_right: [code](./code/sliding_window/lengthOfLongestSubstring.py)  (hard) *
+- [x] [Longest Substring with Same Letters after Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) :point_right: [code](./code/sliding_window/characterReplacement.py)  (medium)
+- [x] [Longest Subarray with Ones after Replacement](https://leetcode.com/problems/max-consecutive-ones-iii/) :point_right: [code](./code/sliding_window/longestOnes.py)  (hard) *
+- [x] [Problem Challenge 1 - Permutation in a String](https://leetcode.com/problems/permutation-in-string/) :point_right: [code](./code/sliding_window/checkInclusion.py)  (hard) *
+- [x] [Problem Challenge 2 - String Anagrams](https://leetcode.com/problems/find-all-anagrams-in-a-string/) :point_right: [code](./code/sliding_window/findAnagrams.py)  (hard)
+- [x] [Problem Challenge 3 - Smallest Window containing Substring](https://leetcode.com/problems/minimum-window-substring/) :point_right: [code](./code/sliding_window/minWindow.py)  (hard) *
+- [x] [Problem Challenge 4 - Words Concatenation](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) :point_right: [code](./code/sliding_window/totalFruits.py)  (hard)
 ## 2. Pattern: Two Pointers
-- [x] [Pair with Target Sum](https://leetcode.com/problems/fruit-into-baskets/) (:point_right: [code](./code/sliding_window/totalFruits.py)  (easy)
-- [x] [Remove Duplicates](https://leetcode.com/problems/fruit-into-baskets/) (:point_right: [code](./code/sliding_window/totalFruits.py)  (easy)
-- [x] [Squaring a Sorted Array](https://leetcode.com/problems/fruit-into-baskets/) (:point_right: [code](./code/sliding_window/totalFruits.py)  (easy)
-- [x] [Triplet Sum to Zero](https://leetcode.com/problems/fruit-into-baskets/) (:point_right: [code](./code/sliding_window/totalFruits.py)  (medium)
-- [x] [Triplet Sum Close to Target](https://leetcode.com/problems/fruit-into-baskets/) (:point_right: [code](./code/sliding_window/totalFruits.py)  (medium)
-- [x] [Triplets with Smaller Sum](https://leetcode.com/problems/fruit-into-baskets/) (:point_right: [code](./code/sliding_window/totalFruits.py)  (medium)
-- [x] [Subarrays with Product Less than a Target](https://leetcode.com/problems/fruit-into-baskets/) (:point_right: [code](./code/sliding_window/totalFruits.py)  (medium) *
-- [x] [Problem Challenge 1 - Quadruple Sum to Target](https://leetcode.com/problems/fruit-into-baskets/) (:point_right: [code](./code/sliding_window/totalFruits.py)  (medium) *
-- [x] [Problem Challenge 2 - Comparing Strings containing Backspaces](https://leetcode.com/problems/fruit-into-baskets/) (:point_right: [code](./code/sliding_window/totalFruits.py)  (medium)
-- [x] [Problem Challenge 3 - Minimum Window Sort](https://leetcode.com/problems/fruit-into-baskets/) (:point_right: [code](./code/sliding_window/totalFruits.py)  (medium) *
+- [x] [Pair with Target Sum](https://leetcode.com/problems/fruit-into-baskets/) :point_right: [code](./code/sliding_window/totalFruits.py)  (easy)
+- [x] [Remove Duplicates](https://leetcode.com/problems/fruit-into-baskets/) :point_right: [code](./code/sliding_window/totalFruits.py)  (easy)
+- [x] [Squaring a Sorted Array](https://leetcode.com/problems/fruit-into-baskets/) :point_right: [code](./code/sliding_window/totalFruits.py)  (easy)
+- [x] [Triplet Sum to Zero](https://leetcode.com/problems/fruit-into-baskets/) :point_right: [code](./code/sliding_window/totalFruits.py)  (medium)
+- [x] [Triplet Sum Close to Target](https://leetcode.com/problems/fruit-into-baskets/) :point_right: [code](./code/sliding_window/totalFruits.py)  (medium)
+- [x] [Triplets with Smaller Sum](https://leetcode.com/problems/fruit-into-baskets/) :point_right: [code](./code/sliding_window/totalFruits.py)  (medium)
+- [x] [Subarrays with Product Less than a Target](https://leetcode.com/problems/fruit-into-baskets/) :point_right: [code](./code/sliding_window/totalFruits.py)  (medium) *
+- [x] [Problem Challenge 1 - Quadruple Sum to Target](https://leetcode.com/problems/fruit-into-baskets/) :point_right: [code](./code/sliding_window/totalFruits.py)  (medium) *
+- [x] [Problem Challenge 2 - Comparing Strings containing Backspaces](https://leetcode.com/problems/fruit-into-baskets/) :point_right: [code](./code/sliding_window/totalFruits.py)  (medium)
+- [x] [Problem Challenge 3 - Minimum Window Sort](https://leetcode.com/problems/fruit-into-baskets/) :point_right: [code](./code/sliding_window/totalFruits.py)  (medium) *
 ## 3. Pattern: Fast & Slow pointers
-- [x] [LinkedList Cycle](https://leetcode.com/problems/fruit-into-baskets/) (:point_right: [code](./code/sliding_window/totalFruits.py)  (easy)
-- [x] [Middle of the LinkedList](https://leetcode.com/problems/fruit-into-baskets/) (:point_right: [code](./code/sliding_window/totalFruits.py)  (easy)
-- [x] [Start of LinkedList Cycle](https://leetcode.com/problems/fruit-into-baskets/) (:point_right: [code](./code/sliding_window/totalFruits.py)  (medium) *
-- [x] [Happy Number](https://leetcode.com/problems/fruit-into-baskets/) (:point_right: [code](./code/sliding_window/totalFruits.py)  (medium) *
-- [x] [Problem Challenge 1 - Palindrome LinkedList](https://leetcode.com/problems/fruit-into-baskets/) (:point_right: [code](./code/sliding_window/totalFruits.py)  (medium) *
-- [x] [Problem Challenge 2 - Rearrange a LinkedList](https://leetcode.com/problems/fruit-into-baskets/) (:point_right: [code](./code/sliding_window/totalFruits.py)  (medium)
-- [x] [Problem Challenge 3 - Cycle in a Circular Array](https://leetcode.com/problems/fruit-into-baskets/) (:point_right: [code](./code/sliding_window/totalFruits.py)  (hard) *
+- [x] [LinkedList Cycle](https://leetcode.com/problems/fruit-into-baskets/) :point_right: [code](./code/sliding_window/totalFruits.py)  (easy)
+- [x] [Middle of the LinkedList](https://leetcode.com/problems/fruit-into-baskets/) :point_right: [code](./code/sliding_window/totalFruits.py)  (easy)
+- [x] [Start of LinkedList Cycle](https://leetcode.com/problems/fruit-into-baskets/) :point_right: [code](./code/sliding_window/totalFruits.py)  (medium) *
+- [x] [Happy Number](https://leetcode.com/problems/fruit-into-baskets/) :point_right: [code](./code/sliding_window/totalFruits.py)  (medium) *
+- [x] [Problem Challenge 1 - Palindrome LinkedList](https://leetcode.com/problems/fruit-into-baskets/) :point_right: [code](./code/sliding_window/totalFruits.py)  (medium) *
+- [x] [Problem Challenge 2 - Rearrange a LinkedList](https://leetcode.com/problems/fruit-into-baskets/) :point_right: [code](./code/sliding_window/totalFruits.py)  (medium)
+- [x] [Problem Challenge 3 - Cycle in a Circular Array](https://leetcode.com/problems/fruit-into-baskets/) :point_right: [code](./code/sliding_window/totalFruits.py)  (hard) *
 ## 4. Pattern: Merge Intervals
 - [ ] Merge Intervals (medium)
 - [ ] Insert Interval (medium) *
